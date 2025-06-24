@@ -1,0 +1,4 @@
+{
+    "command": "BROWSER=none npm run dev -- --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/quicktictactoe-33424-22c563a5/tic_tac_toe_frontend_workspace/tic_tac_toe_frontend"
+}
